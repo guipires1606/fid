@@ -572,7 +572,7 @@ section {
 
 .portfolio .portfolio-wrap::before {
   content: "";
-  background: rgba(255, 255, 255, 0.5);
+  background: rgba(67, 107, 216, 0.5);
   position: absolute;
   left: 0;
   right: 0;
@@ -596,7 +596,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a {
-  color: #fff;
+  color: rgb(255, 255, 255);
   font-size: 28px;
   text-align: center;
   background: rgba(20, 157, 221, 0.75);
